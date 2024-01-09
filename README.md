@@ -8,7 +8,7 @@ I Love Progamming
 
 * 🌍  I'm based in Yogyakarta
 * ✉️  You can contact me at [404rootx3@gmail.com](mailto:404rootx3@gmail.com)
-* 🧠  I'm learning Laravel , Bash, C++, JavaScript, Python, Git
+* 🧠  I'm learning Laravel , Bash, C++, JavaScript, Python
 * 🤝  I'm open to collaborating on I'm open to collaborating on Other projects!
 * ⚡  I Like Matcha
 
