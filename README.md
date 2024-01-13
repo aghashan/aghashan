@@ -9,7 +9,7 @@ I Love Progamming
 * 🌍  I'm based in Yogyakarta
 * ✉️  You can contact me at [404rootx3@gmail.com](mailto:404rootx3@gmail.com)
 * 🧠  I'm learning Laravel , Bash
-* 🤝  I'm open to collaborating on I'm open to collaborating on Other projects!
+* 🤝  I'm open to collaborating on Other projects!
 * ⚡  I Like Matcha
 
 <a href="https://www.github.com/aghashan" target="_blank" rel="noreferrer"><img
