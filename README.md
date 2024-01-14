@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Begginer Software Enginer
 -------------------------
 
-I Love Progamming
-
 * 🌍  I'm based in Yogyakarta
 * ✉️  You can contact me at [404rootx3@gmail.com](mailto:404rootx3@gmail.com)
 * 🧠  I'm learning Laravel , Bash
