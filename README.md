@@ -5,7 +5,7 @@ Beginner Software Enginer
 -------------------------
 
 * 🌍  I'm based in Yogyakarta
-* ✉️  You can contact me at [500serviceerror@gmail.com](mailto:500serviceerror@gmail.com)
+* ✉️  You can contact me at [ 500serviceerror@gmail.com] (mailto:500serviceerror@gmail.com)
 * 🧠  I'm learning Laravel , Bash
 * 🤝  I'm open to collaborating on Other projects!
 * ⚡  I Like Matcha
